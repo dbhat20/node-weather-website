@@ -27,7 +27,8 @@ header {
 }
 
 h1 {
-    font-size: 64px;
+    color: tomato;
+    font-size: 50px;
     margin-bottom: 16px;
 }
 
